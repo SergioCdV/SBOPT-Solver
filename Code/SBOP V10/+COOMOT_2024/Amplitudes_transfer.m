@@ -145,4 +145,4 @@ ylabel('$\phi$')
 title('Thrust out-of-plane angle')
 
 %% Save results in a common file 
-save COOMOT_2024_results.mat
+%save COOMOT_2024_results.mat
