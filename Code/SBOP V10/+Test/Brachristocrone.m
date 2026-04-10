@@ -1,8 +1,8 @@
 %% Project: SBOPT %%
 % Date: 05/05/23
 
-%% Zermelos %% 
-% This script provides a main interface to solve Zermelo's problem %
+%% Brachistocrone %% 
+% This script provides a main interface to solve Brachistocrone's problem %
 
 %% Set up
 close all
